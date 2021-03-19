@@ -17,8 +17,8 @@ public class Circle {
     }
 
     //setter
-    public double setRadius(double v){
-        return radius;
+    public void setRadius(double v){
+        this.radius = radius;
     }
 
     //Method
